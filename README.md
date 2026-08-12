@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mercy512
-- 👀 I’m interested in writing, software engineering,music
-- 🌱 I’m currently learning software-engineering at ALX
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @mercy_ayo
+- 👀 I’m interested in health education, mental health awareness, sports, healthy lifestyle, music 
+- 🌱 I’m currently a student of public health at Adekunle Ajasin University, Akungba-Akoko, Ondo state,Nigeria 
+
 - 📫 How to reach me @ ayoamioluwafemimercy@gmail.com
 
 <!---
